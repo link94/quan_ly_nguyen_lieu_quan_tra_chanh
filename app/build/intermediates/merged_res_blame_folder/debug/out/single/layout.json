@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\fragment_nguyen_lieu.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\fragment_nguyen_lieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\dialog_login_option.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\dialog_login_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\nav_header_employeescennn.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\nav_header_employeescennn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\fragment_san_pham.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\fragment_san_pham.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.second.app-mergeDebugResources-49:/layout/content_employeescennn.xml",
+        "source": "com.example.second.app-main-52:/layout/content_employeescennn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\app_bar_employeescennn.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\app_bar_employeescennn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\content_employeescennn.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\content_employeescennn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\activity_employeescennn.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\activity_employeescennn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-mergeDebugResources-49:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.4\\com.example.second.app-main-52:\\layout\\fragment_home.xml"
+    }
+]
